@@ -1,2 +1,2 @@
-# web-kit
+# WebKit
 Browser Tool Kit
